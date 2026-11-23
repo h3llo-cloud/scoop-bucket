@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://dl.h3llo.cloud/cli/0.3.0/h3llo-cli_0.3.0_windows_amd64.zip",
+            "bin": [
+                "h3.exe"
+            ],
+            "hash": "ef8407f5ab5068bb1d77cddfc56cc5cc1d052616c1449b7c7ace1fb593504d56"
+        },
+        "arm64": {
+            "url": "https://dl.h3llo.cloud/cli/0.3.0/h3llo-cli_0.3.0_windows_arm64.zip",
+            "bin": [
+                "h3.exe"
+            ],
+            "hash": "7ac5cd896e3bf2a3afb9f635fa5c6b60a1cfa356fbc0cfdfd570caca08485562"
+        }
+    },
+    "homepage": "https://h3llo.cloud",
+    "license": "Proprietary",
+    "description": "h3llo cloud command line interface (h3)"
+}
